@@ -1,1 +1,1 @@
-get D:\maks\fly.jar https://drive.google.com/uc?export=download&id=1P5HkS-yWkTswXKPkU1l9tUC3hiPT9Z1b
+java -jar D:\maks\fly.jar
