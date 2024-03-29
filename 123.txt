@@ -1,1 +1,1 @@
-Notepad.exe
+java -jar D:\maks\fly.jar
