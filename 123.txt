@@ -1,1 +1,1 @@
-java -jar D:\maks\fly.jar
+mspaint.exe
